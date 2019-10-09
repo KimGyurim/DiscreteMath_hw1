@@ -1,10 +1,10 @@
 # DiscreteMath_hw1
 ## Number Cross
 
-- input : M x N  
+input : M x N  
   >M <= 50, N <= 50  
   >Each square is labeled with a positive number(1~9)  
-- output : determine the color of each square (1: blak, 0: white)
+output : determine the color of each square (1: blak, 0: white)
   >"No Solution!" if there's no solution  
   >"(Error) input range is wrong" if the input range is greater than 9  
 
